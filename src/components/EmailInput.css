@@ -1,0 +1,24 @@
+
+.EmailInput label {
+    margin-bottom: 4px;
+    font-weight: bold;
+    position: relative;
+    left: 400px;
+  }
+  
+  .EmailInput input {
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    position: relative;
+    left: 400px;
+  }
+  
+  .EmailInput span {
+    color: red;
+    font-size: 0.8rem;
+    position: relative;
+    left: 400px;
+  }
+  
